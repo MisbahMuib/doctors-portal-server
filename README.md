@@ -20,4 +20,4 @@ A Single page web app with dashboard  where people can pick the date and time an
 * Express.js
 * MongoDB
 
-[Server Repository](https://github.com/misbahmuib/doctors-portal-client)
+[Client Repository](https://github.com/misbahmuib/doctors-portal-client)
