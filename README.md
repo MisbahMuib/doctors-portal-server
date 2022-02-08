@@ -4,6 +4,9 @@ A Single page web app with dashboard  where people can pick the date and time an
 
 [Live Website](https://doctors-portal-react.firebaseapp.com/) | [Live Server](https://doctors-portal-backend.herokuapp.com/)
 
+![Home Page](https://user-images.githubusercontent.com/45326654/152931043-71878ec7-5916-45d9-a30b-e19b8bf246ac.png)
+
+
 ### Features
 * Online appointment making
 * Patients Database
